@@ -5,6 +5,8 @@ What this project does :
     Work with a 1 dimensional kalman filter in cpp.
 
     The 1d measurement required is passed from the main file
+    
+    This excercise is picked up or sourced from Udacity's SDCND's Kalman filter lesson.
 
 Requirements :
     
